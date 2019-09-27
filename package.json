@@ -1,7 +1,8 @@
 {
   "name": "screenshotter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Super basic node package for taking WP Theme screenshots",
+  "repository": "https://github.com/andrewgillingham/themeshotter",
   "main": "index.js",
   "author": "",
   "license": "ISC",
